@@ -55,7 +55,7 @@ For an unordered list, preface each item with a dash and space as shown above.
 Code should be fenced using three backtics ` on the line above and the line below your code. 
 After the opening backtics, put the syntax type, e.g. JavaScript or DOS (for Windows terminal commands) or Bash (for Git Bash commands). 
 
-```DOS
+```PowerShell
 dir
 ```
 
@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![NWMSU](https://i.pinimg.com/236x/89/4c/64/894c64813b6cb695c0913b7a7ecb850d--graduation-ideas-missouri-state-university.jpg "NWMSU logo")
 
 ## Displaying Local Images
 
@@ -90,10 +90,20 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+James Runyon
 
-dcase@nwmissouri.edu
+s530258@nwmissouri.edu
 
-## New Section 
+## New Section
+
+[New Link](https://github.com/s530258 "GitHub profile")
+
+
+1. List item 1.
+1. List item 2.
+1. List item 3.
+ 
+
+
 
 
